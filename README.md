@@ -17,14 +17,10 @@ A simulation-based system comparing **Fixed-Time** vs **Multi-Agent (Adaptive)**
 ## 🧪 Demo
 
 ### Dashboard
-![dashboard](assets/screenshots/dashboard.png)
+![dashboard](assets/Screenshots/Dahboard.png)
 
 ### Comparison Graph
-![graph](assets/screenshots/graph.png)
-
-### SUMO Simulation (GIF)
-![demo](assets/demo.gif)
-
+![graph](assets/Screenshots/4x4_result_graph.png)
 ---
 
 ## ⚙️ Tech Stack
